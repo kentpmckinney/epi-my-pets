@@ -1,7 +1,7 @@
 <!-- Category: Epicodus;HTML/CSS/JS -->
 # My Pets
 
-Shows some pets
+Shows my pets (or maybe someone else's)
 
 https://github.com/kentpmckinney/epi-my-pets
 
